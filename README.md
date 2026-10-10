@@ -7,18 +7,19 @@
 
 ### My Skill
 
-![](https://skillicons.dev/icons?i=py,r,postgres,next,react,tailwind,js,ts,firebase)
+![](https://skillicons.dev/icons?i=py,next,react,tailwind,js,ts,firebase)
   
 ### Now Training
 
-![](https://skillicons.dev/icons?i=postgres,react,docker)
+![](https://skillicons.dev/icons?i=postgres,react,tailwind,docker)
 
 ### My Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayohiba5982-gif&show_icons=true&theme=vue-dark" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayohiba5982-gif&theme=vue-dark&show_icons=true&hide_rank=true" alt="GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayohiba5982-gif&layout=normal&theme=vue-dark" alt="Top Langs" height="175" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayohiba5982-gif&theme=vue-dark" alt="GitHub Streak" />
 </p>
+
